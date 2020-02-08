@@ -29,6 +29,15 @@
 
   #section-4 .row h1 {
     padding: 6vmin 4vmin;
+    font-size: 35px;
+  }
+
+  #section-4 .row h3 {
+    font-size: 20px;
+  }
+
+  #section-4 .row p {
+    font-size: 15px;
   }
 
   #section-4 .platform .col-md-6 {
