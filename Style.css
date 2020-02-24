@@ -75,8 +75,8 @@ header .row .col-md-5 {
 }
 
 header .row .col-md-5 img {
-  width: 20rem;
-  height: 30rem;
+  width: 35rem;
+  height: 35rem;
 }
 
 header {
@@ -152,7 +152,11 @@ header .container .col-md-7 p {
 /* section 2 */
 
 #section-2 {
-  padding-bottom: 2%;
+  padding: 5%;
+}
+
+#section-2 h1 {
+  margin-bottom: 5%;
 }
 
 .numbers .rect {
@@ -222,6 +226,7 @@ header .container .col-md-7 p {
 
 #section-3 {
   background: #f8f9fa;
+  padding-bottom: 5%;
 }
 
 #section-3 .container h1 {
