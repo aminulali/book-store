@@ -4,8 +4,10 @@
   }
 
   header .row .col-md-5 img {
-    width: 25rem;
-    height: 25rem;
+    position: relative;
+    top: -100px;
+    width: 20rem;
+    height: 20rem;
   }
 
   #section-1 .row .col-md-6 .panel {

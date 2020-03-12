@@ -1,12 +1,12 @@
+/* Google fonts */
 @import url("https://fonts.googleapis.com/css?family=Acme|Lobster|Patua+One|Rubik|Sniglet");
 
 * {
   box-sizing: border-box;
 }
 
-header,
-section {
-  overflow-x: hidden;
+header {
+  height: 100vh;
 }
 
 :root {
@@ -75,8 +75,8 @@ header .row .col-md-5 {
 }
 
 header .row .col-md-5 img {
-  width: 35rem;
-  height: 35rem;
+  width: 100%;
+  height: 100%;
 }
 
 header {
