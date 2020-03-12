@@ -1,2 +1,2 @@
-Open: index.html
-style.css
+Open: index.html --- 
+Style.css
