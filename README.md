@@ -1,4 +1,7 @@
-# book-store
 Book Store Project
 
-Open: index.html --- Style.css
+Technologies used: HTML, CSS, Bootstrap
+
+About: A book Store website.
+
+To view code, open files -> index.html --- Style.css
